@@ -1,0 +1,7 @@
+# Agent state and local caches
+.pi/
+.ruff_cache/
+
+# Generated Simulink artifacts
+slprj/
+*.slxc
